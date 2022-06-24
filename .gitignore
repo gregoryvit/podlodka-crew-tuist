@@ -8,7 +8,7 @@ graph.png
 Derived/
 
 ### Tuist managed dependencies ###
-Tuist/Dependencies
+*/Tuist/Dependencies
 
 # OS X Finder stuff
 .DS_Store
