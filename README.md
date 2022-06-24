@@ -17,6 +17,7 @@
 - [Tuist github](https://github.com/tuist/tuist)
 - [Tuist: Xcode-проект на стероидах](https://habr.com/ru/company/hh/blog/564988/)
 - [Modular Apps with a Tuist Series](https://ronanociosoig.medium.com/modular-apps-with-a-tuist-8fdd8d3fd4bb)
+- [Репозиторий со статьями и примерами проектов на Tuist](https://github.com/tuist/awesome-tuist)
 
 ### Xcode frameworks
 
