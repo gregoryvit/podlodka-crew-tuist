@@ -1,0 +1,14 @@
+### Projects ###
+*.xcodeproj
+*.xcworkspace
+
+### Tuist derived files ###
+graph.dot
+graph.png
+Derived/
+
+### Tuist managed dependencies ###
+Tuist/Dependencies
+
+# OS X Finder stuff
+.DS_Store
